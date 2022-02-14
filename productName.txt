@@ -1,0 +1,11 @@
+Paracetamol     200
+Cod Liver Oil   100
+Doliprane       500
+Xyxall          400
+Metformine      50
+Fervex          500
+Avamiz          100
+Diflam          300 
+Elastoplast 	1000
+
+Valium 		50
